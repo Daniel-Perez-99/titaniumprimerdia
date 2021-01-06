@@ -4,3 +4,4 @@ y todo listo para comenzar..
 haber si este cambio ya es el bueno
 
 Modicacion del header
+Ahora es la modificacion del footer
