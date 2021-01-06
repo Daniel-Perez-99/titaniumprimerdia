@@ -1,4 +1,10 @@
 # titaniumprimerdia
-Pruebas de capacitacion
+~~# Pruebas de capacitacion~~
 
-El primer dia aprendimos como crear repositorios
+**Este repositio es para una serie de pruebas y capacitaciones para mejorar dia con dia**
+
+------------
+
+Asi que **BIENVENIDO**
+
+------------
